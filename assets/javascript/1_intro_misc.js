@@ -1,5 +1,6 @@
 // alert('Yay JS is hooked up!!!!');
 // console.log('hello world')
+// prompt("please enter a number")
 // print('hello world')
 // clear() or command + K for the console
 
