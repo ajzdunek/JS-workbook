@@ -47,6 +47,7 @@ function getColor(phrase) {
 getColor();
 
 // Nesting conditionals
+/*
 
 const password = prompt("please enter a new password")
 
@@ -61,7 +62,38 @@ if (password.length >= 6){
     console.log("password too short, must be 6+ characters")
 }
 
+// Truth-y & False-y Values
+
+*/
+// =======
+/*
+
+All JS values have an inherent truthyness except when the 
+falsyness is 
+
+- False
+- 0
+- Empty strings
+- null
+- undefined
+- NAN
+
+*/
+
+// Example of this
+
+// const userInput = prompt('Enter Something');
+
+// if(userInput){
+//     console.log("Truthy")
+// }else{
+//     console.log("Falsy!")
+// }
 
 
-
+if(' '){
+    console.log("Truthy")
+}else{
+    console.log("Falsy")
+}
 
