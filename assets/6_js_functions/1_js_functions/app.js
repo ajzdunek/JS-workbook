@@ -39,7 +39,7 @@ function rant(message) {
 
 }
 
-rant("I hate beets")
+rant("I love beets")
 
 
 
